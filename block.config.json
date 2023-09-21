@@ -1,0 +1,21 @@
+{
+  "name": "21Sep",
+  "type": "package",
+  "blockId": "N9ElsYr-cw5JwdVqB2fSl",
+  "source": {
+    "https": "https://github.com/grgshiji/21Sep.git",
+    "ssh": "git@github.com:grgshiji/21Sep.git",
+    "branch": "block_21Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "21Sep_Block1": {
+      "directory": "21Sep_Block1"
+    }
+  }
+}

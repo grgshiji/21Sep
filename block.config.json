@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "N9ElsYr-cw5JwdVqB2fSl",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/21Sep.git",
+    "ssh": "git@github.com:grgshiji/21Sep.git",
     "branch": "block_21Sep"
   },
   "parentBlockIDs": [],
